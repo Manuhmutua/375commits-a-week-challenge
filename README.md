@@ -1,4 +1,4 @@
-# 375commits-a-week-challenge
+# commits-a-week-challenge
 
 [![Build Status](https://travis-ci.org/Manuhmutua/375commits-a-week-challenge.svg?branch=master)](https://travis-ci.org/Manuhmutua/375commits-a-week-challenge)
 
